@@ -1,2 +1,2 @@
-quay.io/kubevirt/virt-handler:v1.5.1
+quay.io/kubevirt/cirros-container-disk-demo
 

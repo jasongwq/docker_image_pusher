@@ -1,2 +1,2 @@
-quay.io/kubevirt/cirros-container-disk-demo
+quay.io/kubevirt/virtio-container-disk:v1.5.1
 

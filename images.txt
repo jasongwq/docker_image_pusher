@@ -1,2 +1,10 @@
-quay.io/kubevirt/virtio-container-disk:v1.5.1
+quay.io/kubevirt/cdi-operator:v1.61.5
+quay.io/kubevirt/cdi-uploadproxy:v1.61.5
+quay.io/kubevirt/cdi-controller:v1.61.5
+quay.io/kubevirt/cdi-apiserver:v1.61.5
+quay.io/kubevirt/cdi-importer:v1.61.5
+quay.io/kubevirt/cdi-importer:v1.61.5
+quay.io/kubevirt/cdi-cloner:v1.61.5
+quay.io/kubevirt/cdi-uploadserver:v1.61.5
+quay.io/kubevirt/cirros-container-disk-demo
 

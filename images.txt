@@ -1,1 +1,1 @@
-ghcr.io/openobserve/goflow2:v100.0.1
+infiniflow/ragflow:v0.19.1-slim

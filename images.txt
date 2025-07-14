@@ -1,1 +1,2 @@
-infiniflow/ragflow:v0.19.1-slim
+paullouisageneau/violet
+coturn/coturn

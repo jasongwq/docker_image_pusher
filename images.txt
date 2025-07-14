@@ -1,2 +1,1 @@
-paullouisageneau/violet
-coturn/coturn
+jarylc/bittorrent-tracker:11.2.1

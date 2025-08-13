@@ -1,3 +1,2 @@
-infiniflow/ragflow:v0.20.1-slim
-infiniflow/ragflow:v0.20.1
+ghcr.io/open-webui/open-webui:v0.6.22
 

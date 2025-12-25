@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.6.3
+gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-v18.6.3

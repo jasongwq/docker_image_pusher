@@ -1,1 +1,1 @@
-registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.7.1
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.6.3

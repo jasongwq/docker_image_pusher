@@ -1,1 +1,1 @@
-matomo:5.5.0-apache
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.7.1

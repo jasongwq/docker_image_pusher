@@ -1,1 +1,1 @@
-open-webui/opon-webui:v0.8.12
+ghcr.io/open-webui/open-webui:v0.8.12

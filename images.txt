@@ -1,1 +1,2 @@
-vllm/vllm-openai:v0.20.1
+registry.gitlab.com/gitlab-org/gitlab-runner:alpine-v18.11.3
+registry.gitlab.com/gitlab-org/gitlab-runner/gitlab-runner-helper:x86_64-v18.11.3

@@ -1,1 +1,1 @@
-vllm/vllm-openai:vllm-x86_64-cu13-0.25.1-7a33ba9
+lazymio/vllm-backport:latest-sm89

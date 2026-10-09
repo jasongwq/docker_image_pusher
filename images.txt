@@ -1,1 +1,11 @@
-ghcr.io/yhfgyyf/vllm-deepseek-v4-sm89:0.28.1rc1-vision11-sm89-sm120-cu130
+cube-sandbox-image.tencentcloudcr.com/opensource/coredns/coredns:1.14.2
+cube-sandbox-image.tencentcloudcr.com/opensource/mysql:8.0
+cube-sandbox-image.tencentcloudcr.com/opensource/redis:7-alpine
+cube-sandbox-image.tencentcloudcr.com/opensource/openresty:1.21.4.1-6-alpine-fat
+cube-sandbox-cn.tencentcloudcr.com/cube-sandbox/cube-proxy:v0.7.2
+cube-sandbox-cn.tencentcloudcr.com/cube-sandbox/cube-lifecycle-manager:v0.7.2
+cube-sandbox-cn.tencentcloudcr.com/cube-sandbox/cube-egress:v0.7.2
+cube-sandbox-cn.tencentcloudcr.com/cube-sandbox/minio:RELEASE.2025-09-07T16-13-09Z
+docker/compose:1.29.2
+cube-sandbox-cn.tencentcloudcr.com/cube-sandbox/sandbox-code:latest
+ghcr.io/tencentcloud/cubesandbox-base:2026.16
